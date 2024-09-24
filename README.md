@@ -3,5 +3,6 @@
 - 🌱 I’m currently working towards a Software Engineering Degree from Rochester Institute of Technology
 - 💞️ I’m looking to collaborate on just about anything
 - 📫 How to reach me:  via email at vikkarch@gmail.com or via discord @lluunnaa.
+- Alternatively, you could email luna.karch05@gmail.com
 - 😄 Pronouns: Any
 - ⚡ Fun fact: My first exposure to programming anything was python in grade 3 on a school computer

@@ -10,3 +10,5 @@
 Programming Languages and Technologies I Have Used Previously:
 
 [![My Skills](https://skillicons.dev/icons?i=angular,arch,arduino,bash,bots,c,cmake,cpp,cs,css,debian,discord,dotnet,fortran,git,github,gitlab,golang,grafana,html,java,javascript,kotlin,linux,lua,mint,neovim,nodejs,postgresql,powershell,python,r,raspberrypi,redhat,ruby,rust,spring,typescript,windows,zig&theme=light&perline=10)](https://skillicons.dev)
+
+There are more but they were not available from skillicons.dev.

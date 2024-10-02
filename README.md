@@ -6,3 +6,7 @@
 - Alternatively, you could email luna.karch05@gmail.com
 - 😄 Pronouns: Any
 - ⚡ Fun fact: My first exposure to programming anything was python in grade 3 on a school computer
+
+Programming Languages and Technologies I Have Used Previously:
+
+[![My Skills](https://skillicons.dev/icons?i=angular,arch,arduino,bash,bots,c,cmake,cpp,cs,css,debian,discord,dotnet,fortran,git,github,gitlab,golang,grafana,html,java,javascript,kotlin,linux,lua,mint,neovim,nodejs,postgresql,powershell,python,r,raspberrypi,redhat,ruby,rust,spring,typescript,windows,zig&theme=light&perline=10)](https://skillicons.dev)

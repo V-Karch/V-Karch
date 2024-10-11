@@ -13,4 +13,4 @@ Programming Languages and Technologies I Have Used Previously:
 
 There are more but they were not available from skillicons.dev.
 
-Something was wrong with the way I was committing previously, so the contributions may show up incorrectly
+Note that some commits show up before this account was created, this is because I ported them from my old account.

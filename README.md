@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @V-Karch<br>- 👀 I’m interested in all types of programming in any language<br>- 🌱 I’m currently working towards a Software Engineering Degree from Rochester Institute of Technology<br>- 💞️ I’m looking to collaborate on just about anything<br>- 📫 How to reach me:  via email at vikkarch@gmail.com <br>- Alternatively, you could email luna.karch05@gmail.com<br>- 😄 Pronouns: Any<br>- ⚡ Fun fact: My first exposure to programming anything was python in grade 3 on a school computer
+- 👋 Hi, I’m @V-Karch<br>- 👀 I’m interested in all types of programming in any language<br>- 🌱 I’m currently working towards a Software Engineering Degree from Rochester Institute of Technology<br>- 💞️ I’m looking to collaborate on just about anything<br>- 📫 How to reach me:  via email at vikkarch@gmail.com <br>- Alternatively, you could email luna.karch05@gmail.com<br>- 😄 Pronouns: Any<br>- ⚡ Fun fact: My first exposure to programming anything was python version 2.7 in grade 3 on a school computer
 
 
 # 💻 Tech Stack:

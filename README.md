@@ -15,8 +15,8 @@
 Note: There were more that were not listed on GPRM.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=V-Karch&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=V-Karch&theme=default&hide_border=false)<br/>
+![V-Karch's Stats](https://github-readme-stats.vercel.app/api?username=V-Karch&theme=default&show_icons=true&hide_border=true&count_private=true)
+![V-Karch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=V-Karch&theme=default&hide_border=true)
 ![V-Karch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Karch&theme=default&show_icons=true&hide_border=true&layout=compact)
 ---
 
